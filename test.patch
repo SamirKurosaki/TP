@@ -1,0 +1,17 @@
+Index: index.html
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- index.html	(date 1520260256000)
++++ index.html	(date 1520260649809)
+@@ -17,9 +17,6 @@
+ <img src="images/headerPic.jpg" width="800" height="323" alt=""/>
+ <h2>What we do!</h2>
+ <p>An extensive number of unique Flash Templates is at your service.
+-
+-
+-    test
+     All templates on our site were created specially for you!
+     Our independent designers created flash professional templates.
+     Also our templates are unique. It means you can use our flash templates to create your own site!

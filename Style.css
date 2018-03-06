@@ -1,0 +1,53 @@
+h1{
+    text-transform: capitalize;
+    color: orange;
+}
+.source{
+    color: white;
+}
+body{
+    background-color: indianred;
+    margin: 0 30%;
+    width: 800px;
+    position: center;
+
+}
+img{
+    position: center;
+    width: 100%;
+    max-width: 800px;
+    min-width: 800px;
+    padding-top: 31px;
+}
+.para1{
+    left: 20%;
+    max-width: 25%;
+    float: left;
+    margin-left: 10px;
+}
+.para2{
+    right: 80%;
+    max-width: 70%;
+    float: right;
+}
+ul{
+    list-style: none;
+    display: block;
+}
+.button {
+    background:url(images/button.png);
+    border-radius: 10px;
+    color: white;
+    padding: 5px 0px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    min-font-size: 10px;
+    margin-left: 21px;
+    cursor: pointer;
+    width: 129px;
+    text-transform: capitalize;
+}
+.button:hover{
+    background:url(images/buttonActive.png);
+}

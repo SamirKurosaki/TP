@@ -20,19 +20,25 @@ img{
     padding-top: 31px;
 }
 .para1{
-    left: 20%;
+
     max-width: 25%;
     float: left;
     margin-left: 10px;
+    background-color:rgba(192,192,192,0.3);
+    text-align: center;
+
 }
 .para2{
     right: 80%;
     max-width: 70%;
     float: right;
+    background-color:rgba(192,192,192,0.3);
+    text-align: center;
 }
-ul{
+.para2 ul{
     list-style: none;
     display: block;
+    text-align: initial;
 }
 .button {
     background:url(images/button.png);
@@ -50,4 +56,7 @@ ul{
 }
 .button:hover{
     background:url(images/buttonActive.png);
+}
+h2{
+    color: goldenrod;
 }
